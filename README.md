@@ -38,7 +38,7 @@ Since this design relies on trusted components, you must have the following card
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Landako1&repository=frostglass-ui&category=plugin)
 
-*(If the badge doesn't work: Open HACS -> Three dots (top right) -> Custom repositories -> Add URL: `https://github.com/Landako1/frostglass-ui` -> Category: Lovelace)*
+*(If the badge doesn't work: Open HACS -> Three dots (top right) -> Custom repositories -> Add URL: `https://github.com/Landako1/frostglass-ui` -> Category: Dashboard)*
 
 ### 2. Include the Templates
 Open your Home Assistant Dashboard, click the **three dots** in the top right corner, and select **Raw configuration editor**. Add the following line at the very top of your file:

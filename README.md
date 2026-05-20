@@ -25,7 +25,7 @@ An elegant, "Frosted Glass" inspired dashboard design for Home Assistant. FrostG
 
 ## ⚠️ Prerequisites
 
-Since this design relies on trusted components, you must have the following cards installed via HACS first. **Note:** The `button-card` (by RomRider) must be installed via HACS, otherwise the template will not load:
+Since FrostGlass UI relies on external Lovelace components, make sure the following are installed via HACS:
 
 * [button-card](https://github.com/custom-cards/button-card)
 * [card-mod](https://github.com/thomasloven/lovelace-card-mod)
@@ -44,7 +44,7 @@ Since this design relies on trusted components, you must have the following card
 Open your Home Assistant Dashboard, click the **three dots** in the top right corner, and select **Raw configuration editor**. Add the following line at the very top of your file:
 
 ```yaml
-button_card_templates: !include /config/www/community/frostglass-ui/button_card_templates.yaml
+button_card_templates: !include /config/www/community/FrostGlass-UI/frostglass-ui.yaml
 ```
 ### 3. Create your first FrostGlass Button
 Now you can create beautiful buttons with minimal code. Simply use the template key:

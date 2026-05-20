@@ -70,3 +70,5 @@ cards:
         template: frost_blue_button
         entity: light.kitchen
 ```
+## 📄 License
+This project is released under the **MIT License**.

@@ -1,6 +1,6 @@
 {
   "name": "FrostGlass UI",
-  "content_in_root": true,
-  "filename": "button_card_templates.yaml",
+  "content_in_root": false,
+  "filename": "frostglass-ui.yaml",
   "render_readme": true
 }

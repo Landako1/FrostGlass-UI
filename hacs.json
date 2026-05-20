@@ -2,5 +2,5 @@
   "name": "FrostGlass UI",
   "render_readme": true,
   "category": "dashboard",
-  "content_in_root": false
+  "homeassistant": "2026.5.0"
 }

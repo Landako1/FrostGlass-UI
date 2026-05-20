@@ -10,7 +10,7 @@ An elegant, "Frosted Glass" inspired dashboard design for Home Assistant. FrostG
 
 | Dark Mode |
 | :--- |
-| ![Preview](images/preview.png) |
+| ![Preview](images/Preview.png) |
 
 ---
 

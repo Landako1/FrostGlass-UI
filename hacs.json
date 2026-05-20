@@ -1,6 +1,6 @@
 {
   "name": "FrostGlass UI",
   "content_in_root": false,
-  "filename": "frostglass-ui.yaml",
+  "filename": "dist/frostglass-ui.yaml",
   "render_readme": true
 }

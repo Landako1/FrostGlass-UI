@@ -1,5 +1,6 @@
 {
   "name": "FrostGlass UI",
   "render_readme": true,
-  "category": "dashboard"
+  "category": "dashboard",
+  "content_in_root": false
 }

@@ -44,7 +44,7 @@ Since this design relies on trusted components, you must have the following card
 Open your Home Assistant Dashboard, click the **three dots** in the top right corner, and select **Raw configuration editor**. Add the following line at the very top of your file:
 
 ```yaml
-!include /config/www/community/frostglass-ui/button_card_templates.yaml
+button_card_templates: !include /config/www/community/frostglass-ui/button_card_templates.yaml
 ```
 ### 3. Create your first FrostGlass Button
 Now you can create beautiful buttons with minimal code. Simply use the template key:
